@@ -51,10 +51,12 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -63,5 +65,6 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
