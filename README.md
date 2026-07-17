@@ -34,6 +34,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
@@ -79,4 +80,8 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
