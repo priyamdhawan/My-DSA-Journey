@@ -96,4 +96,16 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0069-sqrtx](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
