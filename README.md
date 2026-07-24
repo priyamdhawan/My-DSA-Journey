@@ -99,6 +99,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -108,4 +109,8 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
