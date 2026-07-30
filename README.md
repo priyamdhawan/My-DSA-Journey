@@ -112,5 +112,10 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0061-rotate-list) |
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
