@@ -4,7 +4,7 @@ private:
 
         if( i == 0 && j == 0) return grid[i][j];
 
-        if(i < 0 || j < 0) return 50000;
+        if(i < 0 || j < 0) return INT_MAX / 2;
 
         if(dp[i][j] != -1) return dp[i][j];
 
