@@ -64,6 +64,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0069-sqrtx](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0509-fibonacci-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +128,8 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0062-unique-paths/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
