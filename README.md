@@ -39,6 +39,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0063-unique-paths-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
@@ -74,6 +75,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0063-unique-paths-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0509-fibonacci-number) |
