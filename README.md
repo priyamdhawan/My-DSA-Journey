@@ -44,6 +44,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0994-rotting-oranges) |
@@ -130,6 +131,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0061-rotate-list) |
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +152,16 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
