@@ -17,6 +17,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0994-rotting-oranges) |
@@ -43,6 +44,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
@@ -82,6 +84,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0120-triangle](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -147,6 +150,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
@@ -164,4 +168,8 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
