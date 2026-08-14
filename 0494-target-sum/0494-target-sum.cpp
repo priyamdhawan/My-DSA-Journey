@@ -1,45 +1,38 @@
 class Solution {
 private:
-    // Notice we now pass currentSum and the final target separately
-    int f(int ind, vector<int>& nums, int currentSum, int target, vector<vector<int>>& dp, int offset) {
+    int f(int ind, vector<int>& nums, int target, vector<unordered_map<int, int>>& dp) {
         
-        // BASE CASE: We have processed all numbers
+        // BASE CASE
         if (ind == -1) {
-            // Did our running sum hit the target?
-            if (currentSum == target) return 1;
+            if (target == 0) return 1;
             return 0; 
         }
 
-        // Check memoization table
-        if (dp[ind][currentSum + offset] != -1) {
-            return dp[ind][currentSum + offset];
+        // Check if we already calculated the answer for this specific target at this index.
+        // We use .count() to see if the key exists in the map.
+        // target can be negative, and the map handles it perfectly!
+        if (dp[ind].count(target)) {
+            return dp[ind][target];
         }
 
-        // CHOICE 1: Assign a '+' sign
-        int addChoice = f(ind - 1, nums, currentSum + nums[ind], target, dp, offset);
+        // CHOICE 1: Assign a '+' (target decreases)
+        int addChoice = f(ind - 1, nums, target - nums[ind], dp);
 
-        // CHOICE 2: Assign a '-' sign
-        int subChoice = f(ind - 1, nums, currentSum - nums[ind], target, dp, offset);
+        // CHOICE 2: Assign a '-' (target increases)
+        int subChoice = f(ind - 1, nums, target + nums[ind], dp);
 
-        // Store and return
-        return dp[ind][currentSum + offset] = addChoice + subChoice;
+        // Store the result in the map and return
+        return dp[ind][target] = addChoice + subChoice;
     }
 
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
         
-        int totalSum = 0;
-        for (int i = 0; i < n; i++) totalSum += nums[i];
+        // dp is an array of 'n' HashMaps.
+        // We don't need totalSum, offsets, or size calculations anymore!
+        vector<unordered_map<int, int>> dp(n);
 
-        // Edge case: If the absolute value of the target is greater than the 
-        // sum of all elements, it's physically impossible to reach.
-        if (abs(target) > totalSum) return 0;
-
-        // DP array size is safe because currentSum will never exceed totalSum
-        vector<vector<int>> dp(n, vector<int>(2 * totalSum + 1, -1));
-
-        // Start recursion with currentSum = 0
-        return f(n - 1, nums, 0, target, dp, totalSum);
+        return f(n - 1, nums, target, dp);
     }
 };
