@@ -1,21 +1,34 @@
 class Solution {
 private:
-    int f(int ind, int n){
+    int f(int ind, int n, vector<vector<int>>& dp){
 
-        if(ind == 1 ){
+        // Base case: The smallest piece length we can consider is 1.
+        // If we fill the remaining 'n' with pieces of length 1, 
+        // the product is 1 * 1 * 1... which is just 1.
+        if(ind == 1){
             return 1;
         }
 
-        int notTake = 1 * f(ind-1, n);
+        if(dp[ind][n] != -1) return dp[ind][n];
+
+        // If we DON'T take the piece, we don't multiply anything.
+        // We just move to the next smaller length (ind - 1)
+        int notTake = f(ind-1, n, dp);
+        
         int take = 0;
         if(ind <= n){
-            take = ind * f(ind, n - ind);
+            // If we TAKE the piece, we multiply 'ind' by the remaining product
+            take = ind * f(ind, n - ind, dp);
         }
 
-        return max(take, notTake);
+        return dp[ind][n] = max(take, notTake);
     }
 public:
     int integerBreak(int n) {
-        return f(n-1, n);
+        
+        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
+        
+        // Start from (n - 1) to ensure the number is broken into at least 2 parts
+        return f(n - 1, n, dp);
     }
 };
