@@ -93,6 +93,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0494-target-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -126,6 +127,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
+| [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 | Problem Name | Difficulty |
@@ -186,4 +188,8 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0494-target-sum/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
