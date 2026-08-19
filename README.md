@@ -95,6 +95,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0516-longest-palindromic-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 | Problem Name | Difficulty |
