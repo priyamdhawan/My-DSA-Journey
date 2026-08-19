@@ -92,6 +92,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0416-partition-equal-subset-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -127,6 +128,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
