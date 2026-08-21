@@ -94,6 +94,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0509-fibonacci-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0518-coin-change-ii/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -130,6 +131,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | ------- | ------- |
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -195,5 +197,6 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
