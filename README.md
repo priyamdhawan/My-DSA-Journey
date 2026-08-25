@@ -84,6 +84,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0063-unique-paths-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
@@ -130,6 +131,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0115-distinct-subsequences/) | Hard |
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0583-delete-operation-for-two-strings/) | Medium |
