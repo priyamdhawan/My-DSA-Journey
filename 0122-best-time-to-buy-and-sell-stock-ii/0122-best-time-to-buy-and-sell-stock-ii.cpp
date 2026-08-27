@@ -21,29 +21,30 @@ public:
     int maxProfit(vector<int>& prices) {
         
         int n = prices.size();      
-        vector<vector<long>> dp(n+1, vector<long>(2,-1));
+        vector<long> next(2,0), curr(2,0);
 
         // TABULATION METHOD
 
-        dp[n][0] = 0;
-        dp[n][1] = 0;
+        next[0] = 0;
+        next[1] = 0;
 
         for(int ind = n-1; ind >= 0; ind--){
             for(int buy = 0; buy < 2; buy++){
                 
                 long profit = 0;
                 if(buy){
-                    profit = max( (-prices[ind] + dp[ind+1][0]) , (0 + dp[ind+1][1]) );
+                    profit = max( (-prices[ind] + next[0]) , (0 + next[1]) );
                 }
                 else{   // sell
-                    profit = max( (prices[ind] + dp[ind+1][1]), ( 0 + dp[ind+1][0]) );
+                    profit = max( (prices[ind] + next[1]), ( 0 + next[0]) );
                 } 
 
-                dp[ind][buy] = profit;
-
+                curr[buy] = profit;
             }
+
+            next = curr;
         }
 
-        return dp[0][1];
+        return next[1];
     }
 };
