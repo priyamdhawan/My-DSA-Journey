@@ -41,6 +41,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0064-minimum-path-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
@@ -87,6 +88,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0072-edit-distance](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0322-coin-change/) | Medium |
