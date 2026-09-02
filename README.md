@@ -48,6 +48,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -99,6 +100,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0322-coin-change/) | Medium |
 | [0343-integer-break](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0343-integer-break/) | Medium |
@@ -140,6 +142,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 | Problem Name | Difficulty |
@@ -220,4 +223,8 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0583-delete-operation-for-two-strings](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
