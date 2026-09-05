@@ -18,6 +18,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0207-course-schedule](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0322-coin-change/) | Medium |
+| [0542-01-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0994-rotting-oranges) |
@@ -56,6 +57,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -68,6 +70,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0064-minimum-path-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0994-rotting-oranges) |
 | [1463-cherry-pickup-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -112,6 +115,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0509-fibonacci-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1092-shortest-common-supersequence/) | Hard |
