@@ -16,6 +16,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0207-course-schedule) |
@@ -153,6 +154,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0127-word-ladder/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0115-distinct-subsequences/) | Hard |
+| [0127-word-ladder](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0127-word-ladder/) | Hard |
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -245,4 +248,8 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
