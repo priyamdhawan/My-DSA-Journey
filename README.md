@@ -6,6 +6,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
@@ -14,6 +15,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
@@ -25,6 +27,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 ## Graph Theory
@@ -45,6 +48,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0130-surrounded-regions](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
@@ -69,6 +73,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0063-unique-paths-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
