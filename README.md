@@ -12,6 +12,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0542-01-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
@@ -34,6 +36,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0130-surrounded-regions](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -41,6 +44,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0207-course-schedule](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,4 +261,12 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0127-word-ladder/) | Hard |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
