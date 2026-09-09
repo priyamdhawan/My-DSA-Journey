@@ -13,6 +13,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
@@ -45,6 +47,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +98,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,4 +273,12 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
