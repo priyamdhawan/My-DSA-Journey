@@ -102,6 +102,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0070-climbing-stairs) |
