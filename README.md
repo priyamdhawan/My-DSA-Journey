@@ -32,6 +32,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
