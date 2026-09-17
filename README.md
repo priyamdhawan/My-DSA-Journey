@@ -12,6 +12,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -29,6 +30,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0542-01-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -49,6 +51,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0207-course-schedule](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -292,9 +295,15 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
