@@ -55,6 +55,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0207-course-schedule](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,8 +305,10 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0743-network-delay-time/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
