@@ -13,6 +13,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
@@ -29,6 +30,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
@@ -48,6 +50,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -142,6 +145,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0542-01-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -285,4 +289,12 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
