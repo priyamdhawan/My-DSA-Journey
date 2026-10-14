@@ -11,6 +11,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0207-course-schedule](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -30,6 +31,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0322-coin-change](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -45,6 +47,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0130-surrounded-regions](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -87,6 +90,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0518-coin-change-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0721-accounts-merge](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0994-rotting-oranges) |
@@ -183,6 +187,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0001-two-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0001-two-sum) |
 | [0126-word-ladder-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0127-word-ladder/) | Hard |
+| [0721-accounts-merge](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0721-accounts-merge/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +206,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0721-accounts-merge](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0721-accounts-merge/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -254,6 +260,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
+| [0721-accounts-merge](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0721-accounts-merge/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
