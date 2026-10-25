@@ -97,6 +97,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [1020-number-of-enclaves](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
