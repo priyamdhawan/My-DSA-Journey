@@ -82,6 +82,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0322-coin-change/) | Medium |
@@ -229,6 +230,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
 ## Linked List
