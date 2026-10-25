@@ -67,6 +67,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0064-minimum-path-sum/) | Medium |
@@ -223,6 +224,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0061-rotate-list) |
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
