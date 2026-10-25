@@ -78,6 +78,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0189-rotate-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0213-house-robber-ii) |
@@ -127,6 +128,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | [0062-unique-paths](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0189-rotate-array/) | Medium |
 | [0343-integer-break](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0343-integer-break/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0509-fibonacci-number](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -226,6 +228,7 @@ My solutions for LeetCode, Code360, and GeeksforGeeks.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0189-rotate-array/) | Medium |
 | [0443-string-compression](https://github.com/priyamdhawan/My-DSA-Journey/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/priyamdhawan/My-DSA-Journey/tree/main/0455-assign-cookies/) | Easy |
 ## Linked List
